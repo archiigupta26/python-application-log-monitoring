@@ -1,0 +1,14 @@
+2026-08-10 09:15:22 INFO Application started successfully
+2026-08-10 09:16:10 INFO User login successful user_id=101
+2026-08-10 09:17:45 WARNING Database response time exceeded threshold
+2026-08-10 09:18:02 ERROR Database connection failed
+2026-08-10 09:18:05 ERROR Database connection failed
+2026-08-10 09:18:09 ERROR Database connection failed
+2026-08-10 09:20:12 INFO Database connection restored
+2026-08-10 09:21:30 WARNING High memory usage detected
+2026-08-10 09:22:01 ERROR Payment service timeout
+2026-08-10 09:22:05 ERROR Payment service timeout
+2026-08-10 09:25:40 INFO Payment service recovered
+2026-08-10 09:26:10 INFO Application running normally
+2026-08-11 16:30:00 ERROR Payment service unavailable
+2026-08-11 16:45:00 ERROR Authentication failed for user

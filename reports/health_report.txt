@@ -1,0 +1,11 @@
+
+APPLICATION HEALTH REPORT
+=========================
+
+Total Incidents: 11
+Critical Incidents: 4
+Warning Incidents: 2
+Normal Incidents: 5
+
+Health Score: 36.36/100
+Application Status: CRITICAL
