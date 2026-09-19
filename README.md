@@ -4,7 +4,7 @@
 
 A Python-based application monitoring tool that analyzes application logs, detects errors and warnings, identifies recurring failures, performs basic root cause analysis, stores incident information in MySQL, and generates alerts and health reports.
 
-The project is designed to support application monitoring and troubleshooting by helping identify issues from log data and organize incident information for analysis.
+The project helps organize application monitoring and troubleshooting by identifying recurring issues from log data and maintaining structured incident information.
 
 ## Features
 
